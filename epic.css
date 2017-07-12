@@ -4,3 +4,6 @@
 iframe {
     display: none !important;
 }
+.fontdetectHelper {
+    height: 1000px;
+}
